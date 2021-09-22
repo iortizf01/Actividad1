@@ -7,3 +7,4 @@ EN LA NUBE:
 5. Hacer una nueva rama en la nube y bajarla a local
 
 Prueba para poder realizar los cambios  
+Ahora estoy escribiendo esto para hacer cambios en la nube
